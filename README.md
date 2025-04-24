@@ -21,7 +21,7 @@ We welcome contributions from the community! If you'd like to contribute to CarP
 - Submit a pull request to the main repository
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
 ## Acknowledgments
 - Special thanks to [BlaBlaCar](https://www.blablacar.com/) for inspiring and paving the way for innovative carpooling solutions.
